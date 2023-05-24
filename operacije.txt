@@ -1,1 +1,3 @@
 dodali smo novu operaciju
+
+Nove izmjene za novi branch
